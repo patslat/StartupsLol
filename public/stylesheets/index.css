@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+}
+
+#main {
+  margin-top: 100px;
+}
+
+#great-idea {
+  font-size: 1.8em;
+  min-height: 100px;
+}

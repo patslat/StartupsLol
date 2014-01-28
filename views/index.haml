@@ -1,8 +1,19 @@
 !!!
 %html{:lang => 'eng'}
-  %body
-    .main{style: 'text-align: center;'}
-      #header
-        %h1  Hey, I have a great idea for a startup!
-      #great-idea
-        %h1 It's like #{existing_company} for #{nouns}
+  %head
+    %link{type: 'text/css', rel: 'stylesheet', href: '/stylesheets/index.css'}
+    %link{type: 'text/css', rel: 'stylesheet', href: '/stylesheets/bootstrap.css'}
+    %link{type: 'text/css', rel: 'stylesheet', href: '/stylesheets/colors.css'}
+    %script{type: 'text/javascript', src: '/javascripts/jquery.js'}
+    %script{type: 'text/javascript', src: '/javascripts/bootstrap.js'}
+    %script{type: 'text/javascript', src: '/javascripts/index.js'}
+  %body.container.bg-olive
+    #main.jumbotron.bg-gray
+      .content.container
+        #header
+          %h2  Hey, I have a great idea for a startup!
+        #great-idea.well
+          %p#idea-text It's like #{existing_company} for #{nouns}
+        #another
+          %a#hit-me.btn.btn-large.bg-purple.lime
+            That's amazing! Give me another!
