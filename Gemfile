@@ -1,5 +1,10 @@
 source 'https://rubygems.org'
 gem 'sinatra'
+gem 'shotgun'
 gem 'haml'
 gem 'json'
 gem 'active_support'
+
+gem 'pg'
+gem 'data_mapper'
+gem 'dm-postgres-adapter'
