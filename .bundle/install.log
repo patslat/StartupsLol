@@ -4,3 +4,12 @@ I, [2014-01-29T21:10:54.390861 #69648]  INFO -- : 0:  rack-protection (1.5.2) fr
 I, [2014-01-29T21:10:54.391045 #69648]  INFO -- : 0:  tilt (1.4.1) from /Users/patrick/.rvm/gems/ruby-2.1.0@global/specifications/tilt-1.4.1.gemspec
 I, [2014-01-29T21:10:54.391221 #69648]  INFO -- : 0:  sinatra (1.4.4) from /Users/patrick/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
 I, [2014-01-29T21:10:54.391386 #69648]  INFO -- : 0:  bundler (1.5.1) from /Users/patrick/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2014-01-29T21:18:36.273442 #79156]  INFO -- : 0:  activesupport (3.0.0) from /Users/patrick/.rvm/gems/ruby-2.1.0/specifications/activesupport-3.0.0.gemspec
+I, [2014-01-29T21:18:37.187885 #79156]  INFO -- : 0:  active_support (3.0.0) from /Users/patrick/.rvm/gems/ruby-2.1.0/specifications/active_support-3.0.0.gemspec
+I, [2014-01-29T21:18:37.188208 #79156]  INFO -- : 0:  tilt (1.4.1) from /Users/patrick/.rvm/gems/ruby-2.1.0@global/specifications/tilt-1.4.1.gemspec
+I, [2014-01-29T21:18:37.188448 #79156]  INFO -- : 0:  haml (4.0.5) from /Users/patrick/.rvm/gems/ruby-2.1.0@global/specifications/haml-4.0.5.gemspec
+I, [2014-01-29T21:18:37.188671 #79156]  INFO -- : 0:  json (1.8.1) from /Users/patrick/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/json-1.8.1.gemspec
+I, [2014-01-29T21:18:37.188930 #79156]  INFO -- : 0:  rack (1.5.2) from /Users/patrick/.rvm/gems/ruby-2.1.0@global/specifications/rack-1.5.2.gemspec
+I, [2014-01-29T21:18:37.189150 #79156]  INFO -- : 0:  rack-protection (1.5.2) from /Users/patrick/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-01-29T21:18:37.189363 #79156]  INFO -- : 0:  sinatra (1.4.4) from /Users/patrick/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-01-29T21:18:37.189564 #79156]  INFO -- : 0:  bundler (1.5.1) from /Users/patrick/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec

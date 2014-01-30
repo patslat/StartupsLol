@@ -4,13 +4,10 @@ require 'json'
 require 'rubygems'
 require 'active_support/inflector'
 
-set :haml, format: :html5
-set :static, true
-use Rack::Static, :urls => ['/stylesheets', '/javascripts'], :root => 'public'
-
 EXISTING_COMPANIES = %w(
   Facebook Twitter Foursquare LinkedIn Uber Amazon Pandora Pintrest 4chan
-  Reddit OkCupid Google Yelp Craigslist PagerDuty
+  Reddit OkCupid Google Yelp Craigslist PagerDuty Kickstarter Snapchat
+  Etsy Dropbox YouTube
 )
 NOUNS = File.open('nouns.txt').readlines.map(&:chomp).map(&:pluralize)
 

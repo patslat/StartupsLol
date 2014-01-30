@@ -1,6 +1,12 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    active_support (3.0.0)
+      activesupport (= 3.0.0)
+    activesupport (3.0.0)
+    haml (4.0.5)
+      tilt
+    json (1.8.1)
     rack (1.5.2)
     rack-protection (1.5.2)
       rack
@@ -14,4 +20,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  active_support
+  haml
+  json
   sinatra
